@@ -416,8 +416,8 @@ footer {
   }
 }
 
-.shadow {
-  -webkit-box-shadow: 10px 10px 5px black;
-          box-shadow: 10px 10px 5px black;
+.shadow-class {
+  -webkit-box-shadow: 1px 1px 10px var(--headercolorhighlight);
+          box-shadow: 1px 1px 10px var(--headercolorhighlight);
 }
 /*# sourceMappingURL=style.css.map */
