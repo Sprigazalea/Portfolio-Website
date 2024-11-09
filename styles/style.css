@@ -278,7 +278,7 @@ hr {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  gap: 2rem;
+  gap: 3rem;
   width: 100%;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
@@ -324,6 +324,7 @@ hr {
 .subtitle {
   margin-bottom: 10px;
   padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .text {
@@ -417,7 +418,7 @@ footer {
 }
 
 .shadow-class {
-  -webkit-box-shadow: 1px 1px 10px var(--headercolorhighlight);
-          box-shadow: 1px 1px 10px var(--headercolorhighlight);
+  -webkit-box-shadow: 5px 5px 10px var(--headercolor);
+          box-shadow: 5px 5px 10px var(--headercolor);
 }
 /*# sourceMappingURL=style.css.map */

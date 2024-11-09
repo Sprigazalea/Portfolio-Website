@@ -242,7 +242,7 @@ hr {
 
 .skills-div {
 	display: flex;
-	gap: 2rem;
+	gap: 3rem;
 	width: 100%;
 	flex-wrap: wrap;
 	padding-bottom: 20px;
@@ -280,6 +280,7 @@ hr {
 .subtitle {
 	margin-bottom: 10px;
 	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 .text {
@@ -363,5 +364,5 @@ footer {
 }
 
 .shadow-class {
-	box-shadow: 1px 1px 10px $background-color_2;
+	box-shadow: 5px 5px 10px $background-color_1;
 }
